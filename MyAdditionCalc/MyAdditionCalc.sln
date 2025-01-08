@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAdditionCalc", "MyAdditionCalc\MyAdditionCalc.csproj", "{5E5648E6-F46B-4A2D-AC9F-C4D6C559173D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E5648E6-F46B-4A2D-AC9F-C4D6C559173D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5648E6-F46B-4A2D-AC9F-C4D6C559173D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5648E6-F46B-4A2D-AC9F-C4D6C559173D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5648E6-F46B-4A2D-AC9F-C4D6C559173D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A535D1C-798D-416B-A2B5-A5A5D7A8DC5D}
+	EndGlobalSection
+EndGlobal
