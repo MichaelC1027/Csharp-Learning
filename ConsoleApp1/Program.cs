@@ -50,6 +50,11 @@ class Test
                 str.Add(c);
         }
 
+        if (result <= str.Count())
+        {
+            result = str.Count();
+        }
+
         return result;
     }
 
@@ -102,9 +107,9 @@ class Solution
     public static void Main(string[] args)
     {
         Test test = new Test();
-        int n = 30;
-        string str = "abcabc";
-        string str2 = "ssssss";
+        //int n = 30;
+        //string str = "abcabc";
+        //string str2 = "ssssss";
         string s = " ";
 
         //with this function we can just call the class straight forward, the reason is because it is a static void function so I dont have to make a new object variable
